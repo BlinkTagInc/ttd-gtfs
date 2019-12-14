@@ -1,0 +1,17 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted
+904,CB,CB,Crystal Bay to Squaw Valley PM,,3,,d96827,000000,1,,0
+904,TNSPM,TNSPM,Truckee/Northstar PM,,3,,16dec5,0d0d0d,10,,0
+933,12135,,19X,,3,,f1c844,000000,11,,0
+933,12133,,22,,3,,00bee1,ffffff,12,,0
+933,12134,,50  ,,3,,63c685,ffffff,13,,0
+933,12137,,55 ,,3,,eb3b34,ffffff,14,,0
+16,2596,Blue,"Carnelian Bay Tahoe Vista, Kings Beach, Crystal Bay, Incline Village",North Lake Tahoe Express - Blue Route,3,http://www.northlaketahoeexpress.com/routes/,139deb,000000,15,,0
+16,2594,Red,"Squaw Valley, Tahoe City, West Shore",,3,http://www.northlaketahoeexpress.com/routes/,c40d20,ffffff,16,,0
+16,2595,Green,"Truckee, Northstar",,3,http://www.northlaketahoeexpress.com/routes/,35a239,000000,17,,0
+904,Hwy267,Hwy267,Highway 267,,3,,f50505,000000,3,,0
+904,NSPM,NSPM,Hwy 267 PM,,3,,bd10c9,000000,4,,0
+904,Hwy89,Hwy89,Highway 89,,3,,e0b909,000000,5,,0
+904,ML,ML,Mainline,,3,,11a3ba,000000,6,,0
+904,TLR,TLR,Truckee Local,,3,,83f05b,000000,7,,0
+904,WSN,WSN,Westshore PM,,3,,07a641,000000,8,,0
+904,TSQPM,TSQPM,Truckee/Squaw PM,,3,,5811ea,0d0c0c,9,,0

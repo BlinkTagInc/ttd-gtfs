@@ -1,0 +1,395 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+100,100,,Tahoe City Transit Center - Depart,,39.1645682710321,-120.144752898888,,,0,,America/Los_Angeles,,,0
+101,101,,Hwy 89 at Chase,,39.1619092,-120.1448497,,,0,,America/Los_Angeles,,,0
+102,102,,Hwy 89 at Granlibakken,,39.15924158,-120.1457052,,,0,,America/Los_Angeles,,,0
+103,103,,Hwy 89 at Cathedral Dr,,39.15568739,-120.1461261,,,0,,America/Los_Angeles,,,0
+104,104,,Hwy 89 at Sequoia Ave,,39.15160975,-120.1460423,,,0,,America/Los_Angeles,,,0
+105,105,,Hwy 89 at Pine Ave,,39.14509067,-120.1533533,,,0,,America/Los_Angeles,,,0
+106,106,,Hwy 89 at Fountain Ave  (Firesign Cafe),,39.14017295,-120.1545438,,,0,,America/Los_Angeles,,,0
+107,107,,Hwy 89 at Pineland Dr,,39.13759482,-120.1545245,,,0,,America/Los_Angeles,,,0
+108,108,,Hwy 89 at Ward Ave,,39.13414341,-120.1564172,,,0,,America/Los_Angeles,,,0
+109,109,,Hwy 89 at Timberland Dr (Rideout),,39.12788404,-120.1619534,,,0,,America/Los_Angeles,,,0
+110,110,,Timberland Ln (Rideout Communty Center),,39.12906416,-120.1655523,,,0,,America/Los_Angeles,,,0
+111,111,,Hwy 89 at Elizabeth Dr (Skyland),,39.11540238,-120.1586074,,,0,,America/Los_Angeles,,,0
+112,112,,Hwy 89 at Grand Ave,,39.10487521,-120.1626968,,,0,,America/Los_Angeles,,,0
+113,113,,Hwy 89 at Grimsell Pass (Homewood Sign),,39.10063655,-120.1635729,,,0,,America/Los_Angeles,,,0
+114,114,,Hwy 89 at Homewood Ski Area,,39.0936545,-120.1639567,,,0,,America/Los_Angeles,,,0
+115,115,,Hwy 89 at West Shore Sports,,39.0810781,-120.158006,,,0,,America/Los_Angeles,,,0
+116,116,,Hwy 89 Tahoe Ski Bowl Way,,39.07930268,-120.1569523,,,0,,America/Los_Angeles,,,0
+117,117,,Hwy 89 at Ellis St,,39.07511501,-120.1508767,,,0,,America/Los_Angeles,,,0
+118,118,,Hwy 89 at Lodge Dr,,39.07308212,-120.1444812,,,0,,America/Los_Angeles,,,0
+119,119,,Hwy 89 at McKinney Rubicon Springs Rd,,39.0703233,-120.1401494,,,0,,America/Los_Angeles,,,0
+120,120,,Hwy 89 at Elm St,,39.06874108,-120.1365176,,,0,,America/Los_Angeles,,,0
+121,121,,Hwy 89 Across from PDQ Market,,39.06834203,-120.1310837,,,0,,America/Los_Angeles,,,0
+122,122,,Hwy 89 at Tahoma Post Office (Lodge),,39.06723882,-120.1283231,,,0,,America/Los_Angeles,,,0
+123,123,,Sugar Pine Point State Park,,39.0575273,-120.1226743,,,0,,America/Los_Angeles,,,0
+124,124,,Hwy 89 at Pine St (Northbound),,39.06803338,-120.1291055,,,0,,America/Los_Angeles,,,0
+125,125,,Hwy 89 at PDQ Market,,39.06852833,-120.1316447,,,0,,America/Los_Angeles,,,0
+126,126,,Hwy 89 Across from Elm St,,39.06920705,-120.1371962,,,0,,America/Los_Angeles,,,0
+127,127,,Hwy 89 at Moana Cir,,39.07046649,-120.1399962,,,0,,America/Los_Angeles,,,0
+128,128,,Hwy 89 at Chambers Landing,,39.0732932,-120.1443846,,,0,,America/Los_Angeles,,,0
+129,129,,Hwy 89 Across from Tahoe Ski Bowl Way,,39.07934377,-120.1567186,,,0,,America/Los_Angeles,,,0
+130,130,,Hwy 89 at Homewood Obexer's Market,,39.08199765,-120.1582555,,,0,,America/Los_Angeles,,,0
+131,131,,Hwy 89 at West Shore Cafe,,39.08526031,-120.1599182,,,0,,America/Los_Angeles,,,0
+132,132,,Hwy 89 at Homewood Sign,,39.08711105,-120.1607788,,,0,,America/Los_Angeles,,,0
+133,133,,Hwy 89 Across from Grimsell Pass,,39.10067955,-120.1633365,,,0,,America/Los_Angeles,,,0
+134,134,,Hwy 89 at Grand Ave,,39.10469092,-120.1625401,,,0,,America/Los_Angeles,,,0
+135,135,,Hwy 89 at Skyland Beach,,39.11483682,-120.1581813,,,0,,America/Los_Angeles,,,0
+13593,,,"Ritz Carlton, Highlands Court","Ritz Carlton, Highlands Court, Truckee, Ca. ",39.267333,-120.12784,,,0,,America/Los_Angeles,,,0
+136,136,,Hwy 89 at Hurricane Bay (Hill St),,39.12055231,-120.1611464,,,0,,America/Los_Angeles,,,0
+137,137,,Hwy 89 Across from Timberland Dr (Rideout),,39.12778911,-120.1617495,,,0,,America/Los_Angeles,,,0
+138,138,,Hwy 89 at Sunnyside Ln,,39.13419836,-120.1561161,,,0,,America/Los_Angeles,,,0
+139,139,,Hwy 89 at Sunnyside Market,,39.14054615,-120.1544278,,,0,,America/Los_Angeles,,,0
+140,140,,Tahoe Park Ln (Lakeside),,39.14446204,-120.1537348,,,0,,America/Los_Angeles,,,0
+141,141,,Sequoia Ave (North on Lakeside),,39.15120993,-120.1456513,,,0,,America/Los_Angeles,,,0
+142,142,,Hwy 89 at Olympic Dr,,39.15650737,-120.1458739,,,0,,America/Los_Angeles,,,0
+143,143,,Hwy 89 at Tahoe Tavern Entrance,,39.15856959,-120.1456115,,,0,,America/Los_Angeles,,,0
+144,144,,Hwy 89 at Chase,,39.16186302,-120.1446253,,,0,,America/Los_Angeles,,,0
+145,145,,Granlibakken Resort,,39.15623449,-120.1537837,,,0,,America/Los_Angeles,,,0
+1692,1692,,Tahoe City Transit Center - Arrive,,39.1647340102754,-120.144983632598,,,0,,America/Los_Angeles,,,0
+1733,1733,,Hwy 28 at Crystal Bay Club (Shelter) - Arrive,,39.22752846,-120.0050839,,,0,,America/Los_Angeles,,,0
+1747,1747,,Lakeshore Dr at Country Club Dr (Hyatt) - Arrive,,39.23934556,-119.9437702,,,0,,America/Los_Angeles,,,0
+1760,1760,,Hwy 28 at Tahoe Biltmore (Shelter) - Arrive,,39.22741716,-120.0057609,,,0,,America/Los_Angeles,,,0
+200,200,,Hwy 89 at Bank of the West,,39.16527955,-120.1437742,,,0,,America/Los_Angeles,,,0
+201,201,,Hwy 28 at Swigard's Hardware (Bus Shelter),,39.16845768,-120.1441004,,,0,,America/Los_Angeles,,,0
+202,202,,Hwy 28 at Olympic Bike,,39.1727608,-120.1387028,,,0,,America/Los_Angeles,,,0
+203,203,,Hwy 28  at Lighthouse Center (McDonald's Tahoe City),,39.17455886,-120.1370373,,,0,,America/Los_Angeles,,,0
+204,204,,Hwy 28 Across from Rocky Ridge Rd,,39.18156536,-120.1286405,,,0,,America/Los_Angeles,,,0
+205,205,,Hwy 28 at Star Harbor Ct,,39.18371497,-120.1238235,,,0,,America/Los_Angeles,,,0
+206,206,,Hwy 28 at Lake Forest Rd (West End),,39.18514966,-120.121466,,,0,,America/Los_Angeles,,,0
+207,207,,Hwy 28 Across from Burton Creek,,39.18808446,-120.1176565,,,0,,America/Los_Angeles,,,0
+208,208,,Hwy 28 at Lake Forest Rd (East End),,39.18968103,-120.1136273,,,0,,America/Los_Angeles,,,0
+209,209,,Hwy 28 Across from Dollar Hill II,,39.19000605,-120.1095757,,,0,,America/Los_Angeles,,,0
+2091,2091,,Sugar Pine Point State Park,,39.05770395,-120.1227318,,,0,,America/Los_Angeles,,,0
+210,210,,Hwy 28 at Dollar Hill 7-11 Store (Shelter),,39.19209726,-120.1049092,,,0,,America/Los_Angeles,,,0
+211,211,,Hwy 28 at Chinquapin Condos,,39.19741233,-120.0991611,,,0,,America/Los_Angeles,,,0
+212,212,,Hwy 28 Across from Lardin Way,,39.20722619,-120.0937937,,,0,,America/Los_Angeles,,,0
+213,213,,Hwy 28 Across from Ridgewood Rd,,39.21420697,-120.0882247,,,0,,America/Los_Angeles,,,0
+214,214,,Hwy 28 at Gar Woods East Parking Lot,,39.22601939,-120.082983,,,0,,America/Los_Angeles,,,0
+215,215,,Hwy 28 at Sierra Boat Co,,39.22674196,-120.0804888,,,0,,America/Los_Angeles,,,0
+216,216,,Hwy 28 Across from Placer Welfare,,39.22673651,-120.0782675,,,0,,America/Los_Angeles,,,0
+217,217,,Hwy 28 at Agate Sun Club Pier,,39.23267787,-120.0701775,,,0,,America/Los_Angeles,,,0
+218,218,,Hwy 28 at Stag Dr - Lakeside,,39.23726472,-120.0625444,,,0,,America/Los_Angeles,,,0
+219,219,,Hwy 28 at The Sands,,39.24067899,-120.0565173,,,0,,America/Los_Angeles,,,0
+220,220,,Hwy 28 at Sandy Beach,,39.24004074,-120.052213,,,0,,America/Los_Angeles,,,0
+221,221,,Hwy 28 at National Ave (Lakeside),,39.23944319,-120.0481609,,,0,,America/Los_Angeles,,,0
+2218,2218,,Timberland Ln (Rideout Community Center),,39.12902381,-120.1655865,,,0,,America/Los_Angeles,,,0
+222,222,,Hwy 28 at Pino Grande Ave (Lakeside),,39.23820008,-120.0432461,,,0,,America/Los_Angeles,,,0
+2227,2227,,Truckee Depot - Arrive,,39.32750577,-120.1854884,,,0,,America/Los_Angeles,,,0
+223,223,,Hwy 28 Across from KB Safeway Store,,39.2380408,-120.0333455,,,0,,America/Los_Angeles,,,0
+224,224,,Hwy 28 at Secline St,,39.23759361,-120.0295866,,,0,,America/Los_Angeles,,,0
+225,225,,Hwy 28 at KB State Beach,,39.237384,-120.026585,,,0,,America/Los_Angeles,,,0
+226,226,,Hwy 28 at Coon St (Lakeside),,39.2362652,-120.0236391,,,0,,America/Los_Angeles,,,0
+227,227,,Hwy 28 at Fox St (Lakeside),,39.235365,-120.020648,,,0,,America/Los_Angeles,,,0
+228,228,,Hwy 28 Across from Chipmunk St,,39.233874,-120.016668,,,0,,America/Los_Angeles,,,0
+229,229,,Hwy 28 at Chipmunk St,,39.234025,-120.016505,,,0,,America/Los_Angeles,,,0
+230,230,,Hwy 28 at Fox St,,39.235475,-120.020383,,,0,,America/Los_Angeles,,,0
+231,231,,Hwy 28 at Coon St (7-11),,39.2362,-120.022883,,,0,,America/Los_Angeles,,,0
+232,232,,Hwy 28 Before Deer St (Chevron Station),,39.237309,-120.025654,,,0,,America/Los_Angeles,,,0
+233,233,,Hwy 28 at Deer St WB,,39.237619,-120.027721,,,0,,America/Los_Angeles,,,0
+234,234,,Hwy 28 at Secline St,,39.23780223,-120.029735,,,0,,America/Los_Angeles,,,0
+235,235,,Hwy 28 at KB Safeway Store,,39.23831499,-120.0341682,,,0,,America/Los_Angeles,,,0
+236,236,,Hwy 28 at Pino Grande Ave,,39.23864109,-120.0422726,,,0,,America/Los_Angeles,,,0
+237,237,,Hwy 28 at National Ave,,39.23976309,-120.0489995,,,0,,America/Los_Angeles,,,0
+238,238,,Hwy 28 at Anderson St,,39.2403932566725,-120.053162858,,,0,,America/Los_Angeles,,,0
+239,239,,Hwy 28 at End of 4 Lanes (Sands Motel),,39.24046997,-120.0582498,,,0,,America/Los_Angeles,,,0
+240,240,,Hwy 28 at Stag Dr,,39.23743161,-120.0626354,,,0,,America/Los_Angeles,,,0
+241,241,,Hwy 28 at Agate Rd,,39.23548504,-120.0704488,,,0,,America/Los_Angeles,,,0
+242,242,,Hwy 28 at Sahara Dr,,39.22894669,-120.0707411,,,0,,America/Los_Angeles,,,0
+243,243,,Hwy 28 at Old P.O. Coffee Shop,,39.22691481,-120.0781205,,,0,,America/Los_Angeles,,,0
+244,244,,Hwy 28 at 7-11 Carnelian Bay (Shelter),,39.22686144,-120.0813976,,,0,,America/Los_Angeles,,,0
+2446,,,Sunnyside Resort,,39.139377,-120.153592,,,0,,America/Los_Angeles,,,0
+2449,,,"America's Best Value Inn, Tahoe City",,39.1703630064739,-120.142096281052,,,0,,America/Los_Angeles,,,0
+245,245,,Hwy 28 at Center St,,39.22568751,-120.083962,,,0,,America/Los_Angeles,,,0
+2450,,,Mother Nature's Inn,,39.171624,-120.140122,,,0,,America/Los_Angeles,,,0
+2451,,,Pepper Tree Inn,,39.172558,-120.138977,,,0,,America/Los_Angeles,,,0
+2453,,,Tamarack Lodge,,39.185986,-120.120766,,,0,,America/Los_Angeles,,,0
+2454,,,"River Ranch Restaurant & Lodge, Tahoe City",,39.185813,-120.195188,,,0,,America/Los_Angeles,,,0
+2455,,,Squaw Valley Lodge,,39.19697,-120.239174,,,0,,America/Los_Angeles,,,0
+2456,,,Plump Jack-Squaw Valley Inn,,39.1970122130696,-120.236740708351,,,0,,America/Los_Angeles,,,0
+2457,,,Olympic Villiage Inn,,39.199966,-120.237408,,,0,,America/Los_Angeles,,,0
+2458,,,Christy Inn,,39.198625,-120.230275,,,0,,America/Los_Angeles,,,0
+2459,,,Red Wolf Lodge at Squaw Valley,,39.1968334488139,-120.232722759247,,,0,,America/Los_Angeles,,,0
+246,246,,Hwy 28 at Ridgewood Rd,,39.21507647,-120.0883276,,,0,,America/Los_Angeles,,,0
+2460,,,Tavern Inn,,39.205982,-120.203049,,,0,,America/Los_Angeles,,,0
+2462,,,Resort at Squaw Creek,,39.199201,-120.217727,,,0,,America/Los_Angeles,,,0
+2463,,,Reno Tahoe International Airport,,39.50729,-119.775261,,,0,,America/Los_Angeles,,,0
+2465,,,Tonopalo Private Residence Club,,39.240273,-120.054014,,,0,,America/Los_Angeles,,,0
+2466,,,Edgelake Beach Club,,39.238948,-120.036212,,,0,,America/Los_Angeles,,,0
+2467,,,Holiday House,,39.23808,-120.044514,,,0,,America/Los_Angeles,,,0
+2468,,,Cedar Glen Lodge,,39.240803,-120.058039,,,0,,America/Los_Angeles,,,0
+2469,,,Red Wolf Lakeside Lodge,,39.239378,-120.037139,,,0,,America/Los_Angeles,,,0
+247,247,,Hwy 28 at Lardin Way,,39.20754874,-120.093689,,,0,,America/Los_Angeles,,,0
+2470,,,Firelite Lodge,,39.239844,-120.047661,,,0,,America/Los_Angeles,,,0
+2471,,,Rustic Cottages,,39.23883,-120.041537,,,0,,America/Los_Angeles,,,0
+2472,,,Franciscan Lakeside Lodge,,39.2397,-120.049657,,,0,,America/Los_Angeles,,,0
+2473,,,Shorehouse,,39.239084,-120.04611,,,0,,America/Los_Angeles,,,0
+2474,,,Tahoe Vista Inn & Marina,,39.238522,-120.045535,,,0,,America/Los_Angeles,,,0
+2475,,,"Ferrari's Crown Motel, Kings Beach",,39.237575,-120.028239,,,0,,America/Los_Angeles,,,0
+2477,,,Tahoe Mountain Resort,,39.272288,-120.121496,,,0,,America/Los_Angeles,,,0
+248,248,,Hwy 28 at Old County Rd,,39.19834316,-120.0983178,,,0,,America/Los_Angeles,,,0
+2480,,,Tahoe Biltmore Lodge & Casino,,39.228368,-120.004638,,,0,,America/Los_Angeles,,,0
+2483,,,Incline Village Recreation Center,,39.24454,-119.946,,,0,,America/Los_Angeles,,,0
+249,249,,Hwy 28 at Dollar Dr,,39.19170901,-120.1055606,,,0,,America/Los_Angeles,,,0
+250,250,,Hwy 28 at Dollar Hill II,,39.19017633,-120.1098948,,,0,,America/Los_Angeles,,,0
+2501592,4273,,US 50/Lake Parkway (Hard Rock),,38.96257,-119.940032,,,0,,America/Los_Angeles,,,0
+2501593,4719,,Tillman Ln./Topaz Ln.,,38.90882,-119.74206,,,0,,America/Los_Angeles,,,0
+2501594,4718,,Tillman Ln./Manhattan Way,,38.90342,-119.74207,,,0,,America/Los_Angeles,,,0
+2501595,4717,,Kimmerling Rd./Tillman Ln. (Tillman Center),,38.89462,-119.74427,,,0,,America/Los_Angeles,,,0
+2501596,4303,,Tramway Dr/SR 207,,38.9763965809739,-119.88834779991,,,0,,America/Los_Angeles,,,0
+2501597,5026,,Tramway Dr/Bonnie Dr (Summit Village),,38.97279,-119.887253,,,0,,America/Los_Angeles,,,0
+2501598,4296,,Tramway Dr/Jack Dr (Fox & Hound),,38.970561,-119.887207,,,0,,America/Los_Angeles,,,0
+2501599,5025,,Quaking Aspen Ln/Tramway Dr,,38.96821,-119.88616,,,0,,America/Los_Angeles,,,0
+2501600,4288,,Quaking Aspen Ln (Tahoe Vacation Condos-261 Quaking Aspen),,38.967022,-119.884526,,,0,,America/Los_Angeles,,,0
+2501601,4280,,Quaking Aspen Ln/Galaxy Ln,,38.96495644,-119.8851675,,,0,,America/Los_Angeles,,,0
+2501602,1008,,Quaking Aspen Ln/Ridge Club Dr,,38.96317123,-119.8846364,,,0,,America/Los_Angeles,,,0
+2501603,4257,,Tramway Dr/North Bowl Ln,,38.96089,-119.88934,,,0,,America/Los_Angeles,,,0
+2501604,4269,,Tramway Dr/Wells Fargo Ln (Worldmark),,38.961573,-119.887675,,,0,,America/Los_Angeles,,,0
+2501605,4278,,Tramway Dr/Milky Way Court,,38.964396,-119.886414,,,0,,America/Los_Angeles,,,0
+2501606,5024,,Tramway Dr/Olympic Court (Ridge View),,38.966413,-119.886952,,,0,,America/Los_Angeles,,,0
+2501607,4297,,Tramway Dr/Jack Dr,,38.97034,-119.8872,,,0,,America/Los_Angeles,,,0
+2501608,4299,,Tramway Drive/Bonnie Dr (WorldMark-202 Tramway),,38.972775,-119.887333,,,0,,America/Los_Angeles,,,0
+2501609,5051,,Tramway Drive/Tina Court (in front of house),,38.976204,-119.888622,,,0,,America/Los_Angeles,,,0
+2501610,4271,,US 50/ Lake Parkway (MontBleu),,38.962439,-119.939572,,,0,,America/Los_Angeles,,,0
+2501611,1959,,US 50/Bigler Ave,,38.935338,-119.977575,,,0,,America/Los_Angeles,,,0
+2501612,5008,,US 50/Modesto Ave,,38.94053,-119.977405,,,0,,America/Los_Angeles,,,0
+2501613,4173,,US 50/San Jose Ave (Lakeview Commons),,38.943074,-119.977105,,,0,,America/Los_Angeles,,,0
+2501614,5049,,US 50/Fremont St (Across from DMV),,38.94591,-119.97075,,,0,,America/Los_Angeles,,,0
+2501615,5007,,US 50/Takela Dr (Beach Retreat),,38.945566,-119.967515,,,0,,America/Los_Angeles,,,0
+2501616,5006,,US 50/ Fairway Ave (Howard Johnson),,38.946617,-119.963334,,,0,,America/Los_Angeles,,,0
+2501617,5005,,US 50/ Ski Run Blvd,,38.94791,-119.95941,,,0,,America/Los_Angeles,,,0
+2501618,2055,,US 50/Wildwood Ave,,38.950676,-119.95313,,,0,,America/Los_Angeles,,,0
+2501619,4343,,US 50/Pioneer Trail (Subway),,38.952951,-119.947539,,,0,,America/Los_Angeles,,,0
+2501620,2109,,US HW 50/ Midway Rd (Econo Lodge),,38.951423,-119.951033,,,0,,America/Los_Angeles,,,0
+2501621,5004,,US 50/Wildwood Ave,,38.95064,-119.952726,,,0,,America/Los_Angeles,,,0
+2501622,4215,,US 50/Ski Run Blvd,,38.947952,-119.958706,,,0,,America/Los_Angeles,,,0
+2501623,2000,,US 50/Fairway Ave,,38.94634,-119.963435,,,0,,America/Los_Angeles,,,0
+2501624,2012,,US 50/Johnson Blvd (Safeway),,38.945466,-119.967076,,,0,,America/Los_Angeles,,,0
+2501625,1985,,US 50/Takela Dr (Bank of America),,38.945782,-119.969906,,,0,,America/Los_Angeles,,,0
+2501626,2011,,US 50/Rufus Allen Blvd (County Library),,38.945224,-119.97355,,,0,,America/Los_Angeles,,,0
+2501627,4159,,US 50/Tallac Ave (Visitor/Senior Center),,38.940432,-119.97702,,,0,,America/Los_Angeles,,,0
+2501628,1983,,US 50/Lyons Ave (Middle School),,38.937441,-119.977124,,,0,,America/Los_Angeles,,,0
+2501629,5027,,SR 207/Kahle Dr,,38.968505,-119.933238,,,0,,America/Los_Angeles,,,0
+2501630,4292,,SR 207/Shady Lane,,38.96852,-119.93094,,,0,,America/Los_Angeles,,,0
+2501631,4105,,SR 207/Foothill Rd. (Foothill Park and Ride),,38.92865,-119.83982,,,0,,America/Los_Angeles,,,0
+2501632,4107,,SR 207/Foothill Rd. (Foothill Park and Ride)- EB,,38.92846,-119.83962,,,0,,America/Los_Angeles,,,0
+2501633,4287,,SR 207/Market St,,38.968327,-119.931485,,,0,,America/Los_Angeles,,,0
+2501634,4744,,Hwy 395/Gilman Ave. (Sharkey's),,38.94179,-119.75006,,,0,,America/Los_Angeles,,,0
+2501635,5037,,US 395 Southbound (Carson Valley Inn),,38.955512,-119.767317,,,0,,America/Los_Angeles,,,0
+2501636,4724,,Hwy 395/Ironwood Dr.-Southbound,,38.96297,-119.77934,,,0,,America/Los_Angeles,,,0
+2501637,5045,,Old Clear Creek Rd./Fuji Park (Costco),,39.11572,-119.77718,,,0,,America/Los_Angeles,,,0
+2501638,4729,,Topsy Lane & Vista Grande Blvd. (near Walmart),,39.11058,-119.77672,,,0,,America/Los_Angeles,,,0
+2501639,4737,,Stewart St (behind JoAnn Fabrics),,39.15593,-119.76498,,,0,,America/Los_Angeles,,,0
+2501640,4736,,Stewart St between 2nd and 3rd St-SB,,39.16273,-119.76456,,,0,,America/Los_Angeles,,,0
+2501641,4734,,Washington/Plaza (near Federal Building and Bureau of Indian Affairs),,39.1684,-119.765909,,,0,,America/Los_Angeles,,,0
+2501642,4733,,Stewart St. between 2nd and 3rd St- NB,,39.16303,-119.76444,,,0,,America/Los_Angeles,,,0
+2501643,4732,,Stewart St. (NDOT/DMV),,39.15589,-119.76468,,,0,,America/Los_Angeles,,,0
+2501644,4731,,South Curry Street (Galaxy Theatres/Fandango Casino),,39.13058,-119.77275,,,0,,America/Los_Angeles,,,0
+2501645,4730,,Cochise St./Overland Dr. (Liberty Dialysis),,39.12652,-119.77276,,,0,,America/Los_Angeles,,,0
+2501646,4741,,Hwy 395/Ironwood Dr.-Northbound,,38.96295,-119.77899,,,0,,America/Los_Angeles,,,0
+2501647,4723,,US 395 Northbound (Carson Valley Inn),,38.955414,-119.76664,,,0,,America/Los_Angeles,,,0
+2501648,4722,,Hwy 395/Eddy St (Cheshire Antiques),,38.94065,-119.74824,,,0,,America/Los_Angeles,,,0
+2501649,4720,,Douglas County Community/Senior Center (Herbig Park),,38.93356,-119.73997,,,0,,America/Los_Angeles,,,0
+2501653,1006,,Julie Ln/Lake Tahoe Blvd,,38.91027231,-120.0101182,,,0,,America/Los_Angeles,,,0
+2501654,1004,,Julie Ln/B St,,38.90788671,-120.0084418,,,0,,America/Los_Angeles,,,0
+2501655,1003,,D St/Tata Ln,,38.90644376,-120.0036678,,,0,,America/Los_Angeles,,,0
+2501656,1995,,US 50/3rd St (Bank of the West),,38.91681,-119.999321,,,0,,America/Los_Angeles,,,0
+2501657,5010,,US 50/Tahoe Keys Blvd (O'Reilly Auto Parts),,38.919891,-119.994506,,,0,,America/Los_Angeles,,,0
+2501658,2036,,US 50/Truckee Dr (Motel 6),,38.921883,-119.991615,,,0,,America/Los_Angeles,,,0
+2501659,1962,,US 50/Lodi Ave,,38.923901,-119.988606,,,0,,America/Los_Angeles,,,0
+2501660,4096,,US 50/Sierra Blvd ,,38.926056,-119.985423,,,0,,America/Los_Angeles,,,0
+2501661,5041,,US 50/ Brockway Ave (Jack in the Box),,38.9278,-119.9829,,,0,,America/Los_Angeles,,,0
+2501662,5023,,Al Tahoe/US 50 (LTUSD Offices),,38.934449,-119.976753,,,0,,America/Los_Angeles,,,0
+2501663,5022,,Al Tahoe/Johnson Blvd (El Dorado County Offices),,38.933313,-119.972631,,,0,,America/Los_Angeles,,,0
+2501664,5020,,Johnson Blvd/Marlette Circle,,38.936498,-119.969176,,,0,,America/Los_Angeles,,,0
+2501665,5019,,Johnson Blvd/Marlette Circle,,38.939482,-119.967653,,,0,,America/Los_Angeles,,,0
+2501666,5018,,Johnson Blvd/Fairway Dr (Safeway),,38.944076,-119.966651,,,0,,America/Los_Angeles,,,0
+2501667,4187,,Johnson Blvd/Fairway Dr,,38.944288,-119.966467,,,0,,America/Los_Angeles,,,0
+2501668,4181,,Glenwood Way/Blackwood Rd,,38.942962,-119.961533,,,0,,America/Los_Angeles,,,0
+2501669,5052,,Spruce Ave/Herbert Ave (Bijou Woods Apartments),,38.937991,-119.961145,,,0,,America/Los_Angeles,,,0
+2501670,4357,,Tamarack Ave/Bowers Ave,,38.942783,-119.956236,,,0,,America/Los_Angeles,,,0
+2501671,5017,,Ski Run Blvd/Willow Ave,,38.942648,-119.953148,,,0,,America/Los_Angeles,,,0
+2501672,4178,,Pioneer Trail/Sonora Ave,,38.943665,-119.950833,,,0,,America/Los_Angeles,,,0
+2501673,4200,,Pioneer Trail/Wildwood Ave,,38.945771,-119.950017,,,0,,America/Los_Angeles,,,0
+2501674,4217,,Pioneer Trail/Aspenwald Rd,,38.948212,-119.94875,,,0,,America/Los_Angeles,,,0
+2501675,4223,,Pioneer Trail/Shephards Ave (Americana),,38.950581,-119.947936,,,0,,America/Los_Angeles,,,0
+2501676,4356,,Pioneer Trail/Moss Rd (7-11),,38.952531,-119.946931,,,0,,America/Los_Angeles,,,0
+2501677,4233,,US 50/Pioneer Trail (Holiday Inn Express),,38.953521,-119.946963,,,0,,America/Los_Angeles,,,0
+2501678,1017,,US 50/Stateline Ave (Harveys),,38.96043,-119.941272,,,0,,America/Los_Angeles,,,0
+2501679,4344,,US 50/Kahle Dr (Lakeside Inn),,38.96966,-119.93544,,,0,,America/Los_Angeles,,,0
+2501680,4295,,Kingsbury Transit Center,,38.9693473143625,-119.934787395577,,,0,,America/Los_Angeles,,,0
+2501681,2111,,Stateline Transit Center,,38.957737,-119.942151,,,0,,America/Los_Angeles,,,0
+2501682,5028,,US 50/Park Ave (Village Center - Raley's),,38.954346,-119.945365,,,0,,America/Los_Angeles,,,0
+2501683,5016,,Pioneer Trail/Glen Dr.,,38.950527,-119.947696,,,0,,America/Los_Angeles,,,0
+2501684,4214,,Pioneer Trail/Shepherds Rd,,38.949149,-119.948151,,,0,,America/Los_Angeles,,,0
+2501685,5015,,Pioneer Trail/Spruce Ave,,38.944407,-119.950305,,,0,,America/Los_Angeles,,,0
+2501686,4168,,Ski Run Blvd/Spruce Ave (Terry),,38.942615,-119.953461,,,0,,America/Los_Angeles,,,0
+2501687,4357,,Tamarack Ave/Bowers Ave,,38.943005,-119.955261,,,0,,America/Los_Angeles,,,0
+2501688,4163,,Spruce Ave/Blackwood Rd,,38.9408457225855,-119.956703175903,,,0,,America/Los_Angeles,,,0
+2501689,4148,,Spruce Ave/Herbert Ave,,38.938407,-119.960098,,,0,,America/Los_Angeles,,,0
+2501690,1009,,Herbert Ave/Red Lake Rd (Kelly Ridge),,38.93396444,-119.9553765,,,0,,America/Los_Angeles,,,0
+2501692,4170,,Glenwood Way/Blackwood Rd,,38.943347,-119.961644,,,0,,America/Los_Angeles,,,0
+2501693,5014,,Glenwood Way/Fawn Way,,38.945146,-119.962251,,,0,,America/Los_Angeles,,,0
+2501696,4377,,Johnson Blvd/Marlette Circle,,38.939399,-119.967539,,,0,,America/Los_Angeles,,,0
+2501697,4141,,Johnson Blvd/Marlette Circle (Cemetery),,38.936552,-119.968953,,,0,,America/Los_Angeles,,,0
+2501698,4115,,Johnson Blvd/Al Tahoe Blvd (El Dorado County Sheriff/CSLT Police Dept),,38.93257,-119.97081,,,0,,America/Los_Angeles,,,0
+2501699,4354,,College Ave/US Forest Service,,38.931295,-119.972476,,,0,,America/Los_Angeles,,,0
+2501701,4099,,Lake Tahoe Community College,,38.926807,-119.971693,,,0,,America/Los_Angeles,,,0
+2501702,5012,,Al Tahoe Blvd/College Ave and Johnson Blvd (Post Office),,38.933391,-119.972957,,,0,,America/Los_Angeles,,,0
+2501703,5011,,Al Tahoe Blvd/US 50 (Tahoe Center/Rite Aid),,38.934318,-119.976075,,,0,,America/Los_Angeles,,,0
+2501704,1952,,US 50/Al Tahoe Blvd (US Bank),,38.933582,-119.977887,,,0,,America/Los_Angeles,,,0
+2501705,5009,,US 50 (Presbyterian Church),,38.9296748593054,-119.980660270809,,,0,,America/Los_Angeles,,,0
+2501706,1951,,US 50/ Carson Ave (Town and Country Center),,38.928097,-119.98205,,,0,,America/Los_Angeles,,,0
+2501707,2006,,US 50/Reno Ave,,38.926475,-119.98439,,,0,,America/Los_Angeles,,,0
+2501708,1949,,US 50/Stockton Ave,,38.924606,-119.987192,,,0,,America/Los_Angeles,,,0
+2501709,1948,,US 50/Truckee Dr (Grocery Outlet),,38.920577,-119.993213,,,0,,America/Los_Angeles,,,0
+2501710,4068,,US 50/Tahoe Keys Blvd (Winter's Electric),,38.919229,-119.995243,,,0,,America/Los_Angeles,,,0
+2501711,5001,,US 50/3rd St (Orchids),,38.917043,-119.998486,,,0,,America/Los_Angeles,,,0
+2501712,4052,,3rd St (Tahoe Senior Plaza),,38.914436,-119.996612,,,0,,America/Los_Angeles,,,0
+2501713,4042,,South Ave/3rd St (Barton Hospital),,38.912311,-119.997536,,,0,,America/Los_Angeles,,,0
+2501714,2085,,South Y Transit Center,,38.912993,-120.004823,,,0,,America/Los_Angeles,,,0
+2501914,4231,,Pioneer Trail/Moss Rd,,38.95272768,-119.9466992,,,0,,America/Los_Angeles,,,0
+2501915,4191,,Glenwood Way/Fawn Way,,38.945185,-119.962388,,,0,,America/Los_Angeles,,,0
+2501916,5021,,Johnson Blvd/Al Tahoe Blvd (El Dorado County Sheriff/CSLT Police Dept),,38.932556,-119.971081,,,0,,America/Los_Angeles,,,0
+2504924,1900,,Northstar Village Gate # 7,,39.2761575330946,-120.121551769343,,,0,,America/Los_Angeles,,,0
+2504925,2232,,Sawmill Heights (Employee Housing),,39.2838837379078,-120.106962674191,,,0,,America/Los_Angeles,,,0
+2504926,2046,,Hwy 28 at The Sands,,39.2406788645486,-120.056517236158,,,0,,America/Los_Angeles,,,0
+2504927,2043,,Hwy 28 at Sandy Beach,,39.2400406306633,-120.0522129399,,,0,,America/Los_Angeles,,,0
+2504928,2083,,Hwy 28 at Center St,,39.2256872524293,-120.083961981411,,,0,,America/Los_Angeles,,,0
+2504929,2205,,Hwy 28 at KB State Beach,,39.2373838492491,-120.02658484918,,,0,,America/Los_Angeles,,,0
+2504930,1837,,Lakeshore Dr at Country Club Dr (Hyatt) - Depart,,39.2393322162649,-119.943729520974,,,0,,America/Los_Angeles,,,0
+2504931,1827,,Tahoe City Transit Center - Depart,,39.1646528856321,-120.144876356289,,,0,,America/Los_Angeles,,,0
+2504932,,,Truckee Tahoe Airport,,39.3188720437355,-120.144680874493,,,0,,America/Los_Angeles,,,0
+2504933,,,Cedar House Sports Hotel,,39.3243280163428,-120.1693190598,,,0,,America/Los_Angeles,,,0
+2504934,1989,,Granlibakken Resort,,39.1562343922565,-120.153783706658,,,0,,America/Los_Angeles,,,0
+2504935,,,Tahoe City Inn,,39.1733258189834,-120.138384902259,,,0,,America/Los_Angeles,,,0
+2504936,2227,,Truckee Depot - Arrive,,39.3275051918546,-120.185488355445,,,0,,America/Los_Angeles,,,0
+251,251,,Hwy 28 at Old Mill Rd,,39.18997723,-120.113079,,,0,,America/Los_Angeles,,,0
+252,252,,Hwy 28 at Burton Creek,,39.18795982,-120.1183931,,,0,,America/Los_Angeles,,,0
+253,253,,Hwy 28 at Tamarack Lodge,,39.18386021,-120.1239607,,,0,,America/Los_Angeles,,,0
+2536003,4243,,Sand Harbor Visitors Center,,39.1982323514027,-119.931165335127,,,0,,America/Los_Angeles,,,0
+2536005,5036,,Incline Village/Sand Harbor Parking,,39.24883,-119.96229,,,0,,America/Los_Angeles,,,0
+2536011,5040,,Hwy 28 at Raley's Shopping Center,,39.24968406,-119.9504607,,,0,,America/Los_Angeles,,,0
+2536012,5038,,Hwy 28 at US Bank,,39.24948782,-119.9499663,,,0,,America/Los_Angeles,,,0
+254,254,,Hwy 28 at Rocky Ridge Rd,,39.1819258,-120.1284894,,,0,,America/Los_Angeles,,,0
+2543549,1011,,Hwy 28 at Lakeshore Blvd.,,39.2341568548593,-119.931363797897,,,0,,America/Los_Angeles,,,0
+2543550,1002,,Hwy 28 at Tunnel Creek,,39.2359185969346,-119.929260946026,,,0,,America/Los_Angeles,,,0
+2543551,1000,,Hwy 28 at Hidden Beach SB,,39.2220137670416,-119.929358471302,,,0,,America/Los_Angeles,,,0
+2543552,1001,,Hwy 28 at Hidden Beach NB,,39.221747793862,-119.927942264945,,,0,,America/Los_Angeles,,,0
+255,255,,Hwy 28 at Attorneys Office,,39.17724956,-120.1333501,,,0,,America/Los_Angeles,,,0
+256,256,,Hwy 28 at Basecamp,,39.1746746,-120.1372159,,,0,,America/Los_Angeles,,,0
+257,257,,Hwy 28 at Grove St (Pharmacy),,39.17193809,-120.1399136,,,0,,America/Los_Angeles,,,0
+258,258,,Hwy 28 at Tahoe City WYE,,39.16858965,-120.1442586,,,0,,America/Los_Angeles,,,0
+2931,2931,,Soda Springs Ski Resort,,39.32159426,-120.3797791,,,0,,America/Los_Angeles,,,0
+2932,2932,,Donner Pass Rd Soda Springs General Store,,39.32425574,-120.3837893,,,0,,America/Los_Angeles,,,0
+2933,2933,,Donner Pass Rd at Soda Springs Rd,,39.323418,-120.379235,,,0,,America/Los_Angeles,,,0
+2934,2934,, Donner Pass Rd at Tri Lodges,,39.31656879,-120.3501013,,,0,,America/Los_Angeles,,,0
+2935,2935,,Donner Pass Rd at Ski Inn,,39.31415835,-120.3424473,,,0,,America/Los_Angeles,,,0
+2936,2936,,Donner Pass Rd Sugar Bowl Rd,,39.317478,-120.329902,,,0,,America/Los_Angeles,,,0
+2937,2937,,Sugar Bowl Mt. Judah Day Lodge,,39.30563179,-120.3334573,,,0,,America/Los_Angeles,,,0
+2956,2956,,Boreal Ridge Ski Resort - Arrive,,39.338185,-120.348961,,,0,,America/Los_Angeles,,,0
+2957,2957,,Donner Pass Rd Ski Inn,,39.31432977,-120.3423759,,,0,,America/Los_Angeles,,,0
+2958,2958,,Donner Pass Rd Tri Lodges,,39.31675357,-120.3500512,,,0,,America/Los_Angeles,,,0
+2959,2959,,Donner Pass Rd at Soda Springs Rd,,39.32358374,-120.3791357,,,0,,America/Los_Angeles,,,0
+2960,2960,,Donner Pass Rd at Soda Springs General Store,,39.32440792,-120.3836612,,,0,,America/Los_Angeles,,,0
+2961,2961,,Donner Pass Rd at Donner Summit Lodge,,39.32518093,-120.3888378,,,0,,America/Los_Angeles,,,0
+300,300,,HWY 28 Crystal Bay Club (Shelter) - Depart,,39.22755392,-120.0050317,,,0,,America/Los_Angeles,,,0
+3007,3007,,Sugar Bowl Gondola - Depart,,39.3136376,-120.3393616,,,0,,America/Los_Angeles,,,0
+301,301,,Hwy 28 at Gonowabie Rd,,39.24005744,-120.0006122,,,0,,America/Los_Angeles,,,0
+3014,3014,,Donner Pass Rd at Donner Summit Lodge,,39.3251537,-120.3887611,,,0,,America/Los_Angeles,,,0
+3015,3015,,Donner Pass Rd at Gateway Center (Safeway),,39.32595346,-120.2049976,,,0,,America/Los_Angeles,,,0
+3018,3018,,Sugar Bowl Gondola - Arrive,,39.313758,-120.339688,,,0,,America/Los_Angeles,,,0
+302,302,,Hwy 28 at Crystal Bay Cove Condos,,39.24943677,-119.9926806,,,0,,America/Los_Angeles,,,0
+303,303,,Hwy 28 at Lakeshore Dr (Westside),,39.24982824,-119.9823909,,,0,,America/Los_Angeles,,,0
+304,304,,Hwy 28 at Hwy 431 By Guardrail,,39.25044877,-119.9785318,,,0,,America/Los_Angeles,,,0
+3047,3047,,Edwin Rd at Henness Rd (Bus Shelter),,39.341546,-120.171007,,,0,,America/Los_Angeles,,,0
+3049,3049,,Tunnel Creek Bonanza (Arrive),,39.2366787701638,-119.928945043052,,,0,,America/Los_Angeles,,,0
+305,305,,Hwy 28 Across from Winding Way,,39.25081238,-119.9680434,,,0,,America/Los_Angeles,,,0
+306,306,,Hwy 28 at Toepa,,39.25039119,-119.9632405,,,0,,America/Los_Angeles,,,0
+307,307,,Hwy 28 at Incline Cleaners,,39.24961011,-119.9537058,,,0,,America/Los_Angeles,,,0
+308,308,,Hwy 28 at US Bank,,39.24948782,-119.9499663,,,0,,America/Los_Angeles,,,0
+309,309,,Incline Skate Park at Hwy 28,,39.24889614,-119.9467441,,,0,,America/Los_Angeles,,,0
+310,310,,Southwood at Bowl Incline,,39.24686722,-119.9486956,,,0,,America/Los_Angeles,,,0
+311,311,,Village Blvd at Juanita Rd,,39.24430495,-119.9497163,,,0,,America/Los_Angeles,,,0
+312,312,,Lakeshore Dr at Incline Beach,,39.24030993,-119.9472442,,,0,,America/Los_Angeles,,,0
+313,313,,Lakeshore Dr at Country Club Dr (Hyatt) - Depart,,39.23933239,-119.9437297,,,0,,America/Los_Angeles,,,0
+314,314,,Tunnel Creek Bonanza (Depart),,39.236783,-119.928881,,,0,,America/Los_Angeles,,,0
+315,315,,Country Club Dr at Incline Way,,39.24092945,-119.94032,,,0,,America/Los_Angeles,,,0
+316,316,,Country Club Dr at Mill Creek,,39.24247914,-119.938123,,,0,,America/Los_Angeles,,,0
+317,317,,Hwy 28 at Country Club By Fairway,,39.24632335,-119.9391811,,,0,,America/Los_Angeles,,,0
+318,318,,Hwy 28 at Northwood Blvd,,39.24930743,-119.9464543,,,0,,America/Los_Angeles,,,0
+319,319,,Hwy 28 at Raley's Shopping Center,,39.24968406,-119.9504607,,,0,,America/Los_Angeles,,,0
+320,320,,Hwy 28 at Christmas Tree Village,,39.2498859,-119.9552104,,,0,,America/Los_Angeles,,,0
+321,321,,Hwy 28 at 76 Gas Station,,39.25053188,-119.9623845,,,0,,America/Los_Angeles,,,0
+322,322,,Hwy 28 at WInding Way,,39.25094926,-119.9674243,,,0,,America/Los_Angeles,,,0
+323,323,,Hwy 28 at Ponderosa Ave,,39.25107182,-119.9764615,,,0,,America/Los_Angeles,,,0
+324,324,,Hwy 28 at Pinion Dr,,39.24983012,-119.9828641,,,0,,America/Los_Angeles,,,0
+325,325,,Hwy 28 at Red Cedar Ln,,39.24960476,-119.9899274,,,0,,America/Los_Angeles,,,0
+326,326,,Hwy 28 at Amagosa Rd,,39.24013921,-120.0008314,,,0,,America/Los_Angeles,,,0
+327,327,,Hwy 28 at Tahoe Biltmore (Shelter) - Depart,,39.22736857,-120.0058611,,,0,,America/Los_Angeles,,,0
+400,400,,Alpine Transport Center,,39.18767258,-120.1990956,,,0,,America/Los_Angeles,,,0
+401,401,,Hwy 89 at Alpine Meadows Rd (River Ranch),,39.18727253,-120.1949242,,,0,,America/Los_Angeles,,,0
+402,402,,Squaw Valley Rd at 7-11 Driveway (Shelter),,39.20496966,-120.2005581,,,0,,America/Los_Angeles,,,0
+403,403,,Squaw Valley Rd and Squaw Creek Rd,,39.2059985,-120.2046594,,,0,,America/Los_Angeles,,,0
+404,404,,Squaw Valley Rd at Post Office,,39.19930307,-120.2286469,,,0,,America/Los_Angeles,,,0
+405,405,,Squaw Valley Rd at Clock Tower,,39.19853252,-120.2357083,,,0,,America/Los_Angeles,,,0
+406,406,,Squaw Parking Lot at Village (Shelter in Building),,39.19703988,-120.232801,,,0,,America/Los_Angeles,,,0
+407,407,,Squaw Valley Rd at Squaw Creek Rd (Shelter) EB,,39.20522716,-120.2073419,,,0,,America/Los_Angeles,,,0
+408,408,,Squaw Valley Rd at New Park (Near Entrance),,39.20481413,-120.2008745,,,0,,America/Los_Angeles,,,0
+409,409,,Highway 89 Northbound Near Mousehole,,39.317508,-120.205255,,,0,,America/Los_Angeles,,,0
+410,410,,Hwy 89 at College Trail,,39.32076102,-120.2075137,,,0,,America/Los_Angeles,,,0
+411,411,,Hwy 89 at CHP Office,,39.32522353,-120.2074632,,,0,,America/Los_Angeles,,,0
+412,412,,Highway 89 South Between DMV and Freeway,,39.32494427,-120.2078449,,,0,,America/Los_Angeles,,,0
+413,413,,Hwy 89 at Deerfield Dr (Crossroad Driveway),,39.31996065,-120.2077672,,,0,,America/Los_Angeles,,,0
+414,414,,Hwy 89 Across from West River St (Trailer Park),,39.31596753,-120.2042885,,,0,,America/Los_Angeles,,,0
+415,415,,Hwy 89 at Alpine Meadows Rd (River Ranch),,39.18652917,-120.1949296,,,0,,America/Los_Angeles,,,0
+4380,,,Parkside Inn,,39.244554,-119.936568,,,0,,America/Los_Angeles,,,0
+4689,,,The Villiage at Squaw Valley ,,39.199372,-120.230194,,,0,,America/Los_Angeles,,,0
+4690,,,Northstar Resort - 100 Northstar Drive ,,39.278082,-120.12023,,,0,,America/Los_Angeles,,,0
+500,500,,Hwy 267 and Speckled St,,39.24345315,-120.0303438,,,0,,America/Los_Angeles,,,0
+501,501,,Hwy 267 and Cambridge Dr,,39.24938319,-120.0334037,,,0,,America/Los_Angeles,,,0
+502,502,,Hwy 267 and Stewart Way,,39.25280955,-120.0378391,,,0,,America/Los_Angeles,,,0
+503,503,,Sawmill Heights (Employee Housing),,39.283455,-120.107006,,,0,,America/Los_Angeles,,,0
+504,504,,Northstar Village Gate # 7,,39.27615779,-120.1215518,,,0,,America/Los_Angeles,,,0
+505,505,,Airport Rd and Truckee Town Hall,,39.31724654,-120.1464632,,,0,,America/Los_Angeles,,,0
+506,506,,Airport,,39.31874597,-120.144727,,,0,,America/Los_Angeles,,,0
+507,507,,Hampton Inn and Suites,,39.31714455,-120.1524954,,,0,,America/Los_Angeles,,,0
+508,508,,Hwy 267 and Stewart Way,,39.25263063,-120.0378978,,,0,,America/Los_Angeles,,,0
+509,509,,Hwy 267 and Lincoln Green,,39.24890527,-120.0332351,,,0,,America/Los_Angeles,,,0
+510,510,,Hwy 267 and Speckled St,,39.24344485,-120.0305762,,,0,,America/Los_Angeles,,,0
+600,600,,Truckee Depot - Depart,,39.32753444,-120.1854895,,,0,,America/Los_Angeles,,,0
+601,601,,Donner Pass Rd at Donner Lake Village Resort,,39.32480287,-120.2866209,,,0,,America/Los_Angeles,,,0
+602,602,,Donner Pass Rd at West End Boat Launch,,39.32485927,-120.282394,,,0,,America/Los_Angeles,,,0
+603,603,,Donner Pass Rd at Moraine Rd (Sticks Market),,39.32894414,-120.2544026,,,0,,America/Los_Angeles,,,0
+604,604,,Donner Pass Rd at Summit Dr,,39.32754522,-120.2438366,,,0,,America/Los_Angeles,,,0
+605,605,,Donner Pass Rd at Donner Memorial State Park,,39.32467583,-120.2330553,,,0,,America/Los_Angeles,,,0
+606,606,,Donner Pass Rd Cold Stream Rd,,39.32291464,-120.2275942,,,0,,America/Los_Angeles,,,0
+607,607,,Donner Pass Rd at Tri-Counties Bank Plaza,,39.32542071,-120.2218986,,,0,,America/Los_Angeles,,,0
+608,608,,Donner Pass Rd at Northwoods Blvd,,39.32572135,-120.2178825,,,0,,America/Los_Angeles,,,0
+609,609,,Donner Pass Rd at Donner Trail Rd,,39.32601786,-120.2128889,,,0,,America/Los_Angeles,,,0
+610,610,,Donner Pass Rd at Westgate Center (Wild Cherries),,39.32599764,-120.2103786,,,0,,America/Los_Angeles,,,0
+611,611,,Donner Pass Rd at Bank of America (Bus Shelter),,39.32596419,-120.2057004,,,0,,America/Los_Angeles,,,0
+612,612,,Donner Pass Rd at Tahoe Forest Cancer Center,,39.3261252,-120.2011915,,,0,,America/Los_Angeles,,,0
+613,613,,Donner Pass Rd at Recreation Center,,39.3385479186251,-120.173720401557,,,0,,America/Los_Angeles,,,0
+614,614,,Edwin Rd at Henness Rd (Bus Shelter),,39.34150728,-120.1711096,,,0,,America/Los_Angeles,,,0
+615,615,,Brockway Rd at The Rock (Fifty-Fifty),,39.32177566,-120.163518,,,0,,America/Los_Angeles,,,0
+616,616,,Brockway Rd at Reynold Way,,39.32372609,-120.1676479,,,0,,America/Los_Angeles,,,0
+617,617,,Estates Dr at Senior Apartments,,39.32687058,-120.1685962,,,0,,America/Los_Angeles,,,0
+618,618,,Brockway Rd at Regional Park (Bus Shelter),,39.32638564,-120.1768676,,,0,,America/Los_Angeles,,,0
+619,619,,Donner Pass Rd at Tahoe Forest Medical Offices,,39.32629179,-120.2013549,,,0,,America/Los_Angeles,,,0
+620,620,,Donner Pass Rd at Gateway Center (Safeway Bus Shelter),,39.32613354,-120.2050005,,,0,,America/Los_Angeles,,,0
+621,621,,Donner Pass Rd at ACE Mountain Hardware,,39.32616,-120.2080411,,,0,,America/Los_Angeles,,,0
+622,622,,Donner Pass Rd at Meadow Way (7-11),,39.32617746,-120.2101927,,,0,,America/Los_Angeles,,,0
+623,623,,Donner Pass Rd at Donner Trail Rd,,39.32619371,-120.2135558,,,0,,America/Los_Angeles,,,0
+624,624,,Donner Pass Rd at Northwoods Blvd,,39.32584172,-120.2187442,,,0,,America/Los_Angeles,,,0
+625,625,,Donner Pass Rd at Highway Rd,,39.32557709,-120.2222231,,,0,,America/Los_Angeles,,,0
+626,626,,Donner Pass Rd at Donner Memorial State Park,,39.32481989,-120.2327303,,,0,,America/Los_Angeles,,,0
+627,627,,Donner Pass Rd at East End Donner Lake,,39.32600012,-120.2383109,,,0,,America/Los_Angeles,,,0
+628,628,,Donner Pass Rd at Summit Dr,,39.32760998,-120.243282,,,0,,America/Los_Angeles,,,0
+629,629,,Donner Pass Rd at Moraine Rd (Sticks Market),,39.32895356,-120.2512487,,,0,,America/Los_Angeles,,,0
+630,630,,Donner Pass Rd at West End Boat Launch,,39.32519506,-120.2835869,,,0,,America/Los_Angeles,,,0
+631,631,,Donner Pass Rd at Donner Lake Village Resort,,39.32499624,-120.286601,,,0,,America/Los_Angeles,,,0
+632,632,,Donner Pass Rd at South Shore Dr (Bus Shelter),,39.32313433,-120.2903148,,,0,,America/Los_Angeles,,,0
+633,633,,Brockway Rd and Palisades Dr,,39.32619809,-120.1770967,,,0,,America/Los_Angeles,,,0
+634,634,,Village Green (2nd Driveway),,39.32431489,-120.1693351,,,0,,America/Los_Angeles,,,0
+635,635,,Across from Best Western,,39.32095019,-120.162223,,,0,,America/Los_Angeles,,,0
