@@ -1,9 +1,25 @@
 timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,timetable_label,service_notes,direction_name,orientation,timetable_page_id,timetable_sequence
-1,12135,,20181001,20200101,1,1,1,1,1,1,1,"Northbound, Daily",Stateline Transit Center ➜ Washington/Plaza,Northbound,horizontal,19x,1
-2,12135,1,20181001,20200101,1,1,1,1,1,1,1,"Southbound, Daily",Washington/Plaza ➜ Stateline Transit Center,Southbound,horizontal,19x,2
-3,12133,,20181001,20200101,1,1,1,1,1,1,1,"Eastbound, Daily",Stateline Transit Center ➜ Douglas County Community & Senior Center,Eastbound,horizontal,22,1
-4,12133,1,20181001,20200101,1,1,1,1,1,1,1,"Westbound, Daily",Douglas County Community & Senior Center ➜ Stateline Transit Center,Westbound,horizontal,22,2
-5,12134,,20181001,20200101,1,1,1,1,1,1,1,"Eastbound, Daily",South Y Transit Center ➜ Stateline Transit Center,Eastbound,horizontal,50,1
-6,12134,1,20181001,20200101,1,1,1,1,1,1,1,"Westbound, Daily",Stateline Transit Center ➜ South Y Transit Center,Westbound,horizontal,50,2
-7,12137,,20181001,20200101,1,1,1,1,1,1,1,"Eastbound, Daily",South Y Transit Center ➜ Kingsbury Transit Center,Eastbound,horizontal,55,1
-8,12137,1,20181001,20200101,1,1,1,1,1,1,1,"Westbound, Daily",Kingsbury Transit Center ➜ South Y Transit Center,Westbound,horizontal,55,2
+1,12135,0,20181001,20200101,1,1,1,1,1,0,0,"Northbound, Weekday",Stateline Transit Center ➜ Washington/Plaza,Northbound,horizontal,19x,1
+2,12135,1,20181001,20200101,1,1,1,1,1,0,0,"Southbound, Weekday",Washington/Plaza ➜ Stateline Transit Center,Southbound,horizontal,19x,2
+3,12135,0,20181001,20200101,0,0,0,0,0,1,0,"Northbound, Saturday",Stateline Transit Center ➜ Washington/Plaza,Northbound,horizontal,19x,3
+4,12135,1,20181001,20200101,0,0,0,0,0,1,0,"Southbound, Saturday",Washington/Plaza ➜ Stateline Transit Center,Southbound,horizontal,19x,4
+5,12135,0,20181001,20200101,0,0,0,0,0,0,1,"Northbound, Sunday",Stateline Transit Center ➜ Washington/Plaza,Northbound,horizontal,19x,5
+6,12135,1,20181001,20200101,0,0,0,0,0,0,1,"Southbound, Sunday",Washington/Plaza ➜ Stateline Transit Center,Southbound,horizontal,19x,6
+7,12133,0,20181001,20200101,1,1,1,1,1,0,0,"Eastbound, Weekday",Stateline Transit Center ➜ Douglas County Community & Senior Center,Eastbound,horizontal,22,1
+8,12133,1,20181001,20200101,1,1,1,1,1,0,0,"Westbound, Weekday",Douglas County Community & Senior Center ➜ Stateline Transit Center,Westbound,horizontal,22,2
+9,12133,0,20181001,20200101,0,0,0,0,0,1,0,"Eastbound, Saturday",Stateline Transit Center ➜ Douglas County Community & Senior Center,Eastbound,horizontal,22,3
+10,12133,1,20181001,20200101,0,0,0,0,0,1,0,"Westbound, Saturday",Douglas County Community & Senior Center ➜ Stateline Transit Center,Westbound,horizontal,22,4
+11,12133,0,20181001,20200101,0,0,0,0,0,0,1,"Eastbound, Sunday",Stateline Transit Center ➜ Douglas County Community & Senior Center,Eastbound,horizontal,22,5
+12,12133,1,20181001,20200101,0,0,0,0,0,0,1,"Westbound, Sunday",Douglas County Community & Senior Center ➜ Stateline Transit Center,Westbound,horizontal,22,6
+13,12134,0,20181001,20200101,1,1,1,1,1,0,0,"Eastbound, Weekday",South Y Transit Center ➜ Stateline Transit Center,Eastbound,horizontal,50,1
+14,12134,1,20181001,20200101,1,1,1,1,1,0,0,"Westbound, Weekday",Stateline Transit Center ➜ South Y Transit Center,Westbound,horizontal,50,2
+15,12134,0,20181001,20200101,0,0,0,0,0,1,0,"Eastbound, Saturday",South Y Transit Center ➜ Stateline Transit Center,Eastbound,horizontal,50,3
+16,12134,1,20181001,20200101,0,0,0,0,0,1,0,"Westbound, Saturday",Stateline Transit Center ➜ South Y Transit Center,Westbound,horizontal,50,4
+17,12134,0,20181001,20200101,0,0,0,0,0,0,1,"Eastbound, Sunday",South Y Transit Center ➜ Stateline Transit Center,Eastbound,horizontal,50,5
+18,12134,1,20181001,20200101,0,0,0,0,0,0,1,"Westbound, Sunday",Stateline Transit Center ➜ South Y Transit Center,Westbound,horizontal,50,6
+19,12137,0,20181001,20200101,1,1,1,1,1,0,0,"Eastbound, Weekday",South Y Transit Center ➜ Kingsbury Transit Center,Eastbound,horizontal,55,1
+20,12137,1,20181001,20200101,1,1,1,1,1,0,0,"Westbound, Weekday",Kingsbury Transit Center ➜ South Y Transit Center,Westbound,horizontal,55,2
+21,12137,0,20181001,20200101,0,0,0,0,0,1,0,"Eastbound, Saturday",South Y Transit Center ➜ Kingsbury Transit Center,Eastbound,horizontal,55,3
+22,12137,1,20181001,20200101,0,0,0,0,0,1,0,"Westbound, Saturday",Kingsbury Transit Center ➜ South Y Transit Center,Westbound,horizontal,55,4
+23,12137,0,20181001,20200101,0,0,0,0,0,0,1,"Eastbound, Sunday",South Y Transit Center ➜ Kingsbury Transit Center,Eastbound,horizontal,55,5
+24,12137,1,20181001,20200101,0,0,0,0,0,0,1,"Westbound, Sunday",Kingsbury Transit Center ➜ South Y Transit Center,Westbound,horizontal,55,6
