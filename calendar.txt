@@ -1,12 +1,9 @@
 service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_16043_b_23263_d_127,Peak Season (All days of week),1,1,1,1,1,1,1,20200615,20200930
-c_16043_b_23262_d_127,Peak Season (All days of week),1,1,1,1,1,1,1,20201215,20201231
-c_16039_b_17580_d_127,Year Round (All days of week),1,1,1,1,1,1,1,20180101,20210101
+c_18269_b_23399_d_127,Year Round NEW (All days of week),1,1,1,1,1,1,1,20180101,20210101
 c_15939_b_23321_d_64,Year Round (Sunday only),0,0,0,0,0,0,1,20200102,20220102
 c_15939_b_23321_d_32,Year Round (Saturday only),0,0,0,0,0,1,0,20200102,20220102
 c_15939_b_23321_d_31,Year Round (Weekday),1,1,1,1,1,0,0,20200102,20220102
 c_15939_b_17535_d_64,Year Round (Sunday only),0,0,0,0,0,0,1,20181001,20200101
 c_15939_b_17535_d_32,Year Round (Saturday only),0,0,0,0,0,1,0,20181001,20200101
 c_15939_b_17535_d_31,Year Round (Weekday),1,1,1,1,1,0,0,20181001,20200101
-c_17881_b_22192_d_127,Fall Schedules (Copy) (All days of week),1,1,1,1,1,1,1,20190903,20191209
 c_15571_b_22588_d_127,Winter Schedules (All days of week),1,1,1,1,1,1,1,20191212,20200310

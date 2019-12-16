@@ -1,12 +1,9 @@
 service_id,service_description
-c_16043_b_23263_d_127,Peak Season (All days of week)
-c_16043_b_23262_d_127,Peak Season (All days of week)
-c_16039_b_17580_d_127,Year Round (All days of week)
+c_18269_b_23399_d_127,Year Round NEW (All days of week)
 c_15939_b_23321_d_64,Year Round (Sunday only)
 c_15939_b_23321_d_32,Year Round (Saturday only)
 c_15939_b_23321_d_31,Year Round (Weekday)
 c_15939_b_17535_d_64,Year Round (Sunday only)
 c_15939_b_17535_d_32,Year Round (Saturday only)
 c_15939_b_17535_d_31,Year Round (Weekday)
-c_17881_b_22192_d_127,Fall Schedules (Copy) (All days of week)
 c_15571_b_22588_d_127,Winter Schedules (All days of week)
