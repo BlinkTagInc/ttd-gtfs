@@ -1,1 +1,13 @@
-timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+timetable_id,stop_id,stop_sequence
+1,2501681,1
+1,2501632,2
+1,2501649,3
+1,2501647,4
+1,2501644,5
+1,2501641,6
+2,2501641,1
+2,2501637,2
+2,2501635,3
+2,2501649,4
+2,2501631,5
+2,2501681,6
