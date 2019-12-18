@@ -1,6 +1,6 @@
 timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,timetable_label,service_notes,direction_name,orientation,timetable_page_id,timetable_sequence
-1,12135,0,20181001,20200101,1,1,1,1,1,1,1,"Northbound, Daily",Stateline Transit Center ➜ Washington/Plaza,Northbound,horizontal,19x,1
-2,12135,1,20181001,20200101,1,1,1,1,1,1,1,"Southbound, Daily",Washington/Plaza ➜ Stateline Transit Center,Southbound,horizontal,19x,2
+1,12135,0,20181001,20200101,1,1,1,1,1,1,1,"Northbound, Daily",Stateline Transit Center ➜ Washington/Plaza,Northbound,horizontal,19X,1
+2,12135,1,20181001,20200101,1,1,1,1,1,1,1,"Southbound, Daily",Washington/Plaza ➜ Stateline Transit Center,Southbound,horizontal,19X,2
 7,12133,0,20181001,20200101,1,1,1,1,1,1,1,"Eastbound, Daily",Stateline Transit Center ➜ Douglas County Community & Senior Center,Eastbound,horizontal,22,1
 8,12133,1,20181001,20200101,1,1,1,1,1,1,1,"Westbound, Daily",Douglas County Community & Senior Center ➜ Stateline Transit Center,Westbound,horizontal,22,2
 13,12134,0,20181001,20200101,1,1,1,1,1,1,1,"Eastbound, Daily",South Y Transit Center ➜ Stateline Transit Center,Eastbound,horizontal,50,1
